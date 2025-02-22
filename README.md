@@ -1,4 +1,4 @@
-## Hello
+## Hello Russia :ru:
 It's program for fixing `infinity` loading Discord or Youtube
 
 # 1. installing zapret
