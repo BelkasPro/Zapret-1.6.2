@@ -12,7 +12,6 @@ if "%arg%" == "admin" (
 )
 
 cd /d "%~dp0"
-call check_updates.bat soft
 echo:
 
 set BIN_PATH=%~dp0bin\
