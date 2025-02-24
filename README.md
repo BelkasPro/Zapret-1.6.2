@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4f89b3&text=Zapret%201.6.2&fontColor=88ddf7&fontSize=50&fontAlign=50&fontAlignY=45&animation=twinkling"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4f89b3&text=Zapret%201.6.2&fontColor=88ddf7&fontSize=50&fontAlign=50&fontAlignY=45&animation=twinkling"/> 
 # Hello users from Russia! 
 
 It's program for fixing `infinity` loading <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord or <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=12 />Youtube **FOR WINDOWS!**
@@ -27,4 +27,4 @@ This files for **`zapret`**, **`list-discord.txt`** - It's for fixing **ONLY** d
 <p align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BelkasPro/Zapret-1.6.2?style=for-the-badge&label=Stars" width="120">
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4f89b3&reversal=true&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4f89b3&reversal=true&section=footer"/> 
