@@ -1,14 +1,21 @@
-<h1 align="center">Hello Russia :ru:</h1>
+# Hello users from Russia! 
 
-<h2 align="center">It's program for fixing `infinity` loading Discord or Youtube </h2>
+It's program for fixing `infinity` loading Discord or Youtube
 
-<h1 align="center">1. installing zapret</h1>
+## 1. installing zapret 📗
 
-<h2 align="center">After opening "service_install.bat" choose 9. general.bat for launching `zapret` </h2>
+After opening "service_install.bat" choose 9. general.bat for launching `zapret`
 
-<h1 align="center">2. delete zapret</h1>
+## 2. delete zapret 📕
 
-<h2 align="center">If you need to delete this for first open `service_remove.bat`</h2>
+If you need to delete this for first open `service_remove.bat`</h2>
+
+## 3. Update logs [GITHUB repository] ⏲
+
+* Updated Readme.md
+* I removed `checker` for updates
+
+## 4. Repository stats 🌠
 
 <p align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BelkasPro/Zapret-1.6.2?style=for-the-badge&label=Stars" width="120">
