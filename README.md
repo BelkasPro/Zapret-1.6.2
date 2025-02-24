@@ -1,22 +1,22 @@
 # Hello users from Russia! 
 
-It's program for fixing `infinity` loading Discord or Youtube
+It's program for fixing `infinity` loading Discord or Youtube **FOR WINDOWS!**
 
-## 1. installing zapret 📗
+## 1. How install **zapret** 📗
 
-After opening "**`service_install.bat`**" choose 9. general.bat for launching `zapret`
+After opening "**`service_install.bat`**" choose 9. general.bat for launching `zapret`.
+And after this press enter and ignore every error! Just close terminal.
+So, this program adding "**`zapret`**"
 
-And after this press enter and ignore every error! Just close terminal
-
-## 2. delete zapret 📕
+## 2. How delete **zapret** 📕
 
 If you need to delete this for first open "**`service_remove.bat`**"</h2>
 
 Here same errors from `1. installing zapret 📗` just close terminal
 
-## 3. Update logs [GITHUB repository] ⏲
+## 3. Update logs [GITHUB repository] ⚙️
 
-> Updated Readme.md and I removed `checker` for updates
+> Updated Readme.md [Be more infortable], removed `checker` for updates
 
 ## 4. Repository stats 🌠
 
