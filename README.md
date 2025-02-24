@@ -16,8 +16,8 @@ Here same errors from `1. installing zapret 📗` just close terminal
 
 ## 3. Update logs [GITHUB repository] ⏲
 
-````* Updated Readme.md````
-````* I removed `checker` for updates````
+* Updated Readme.md
+* I removed `checker` for updates
 
 ## 4. Repository stats 🌠
 
