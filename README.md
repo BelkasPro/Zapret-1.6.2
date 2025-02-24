@@ -12,16 +12,16 @@ If you need to delete this program for first step open "**`service_remove.bat`**
 
 ## 3. Update logs [GITHUB repository] ⚙️
 
-> Updated Readme.md [Be more infortable], removed `checker` for updates and its final update for now.
+> Updated Readme.md [**`Be more infortable`**], removed `checker` for updates and its final update for now.
 
 ## 4. Why it's don't working? 🤷‍♂️
 
 Maybe you have turned ON **`VPN`**, its corrupting program and it can't working, recommended turn off **`VPN`** before opening it.
-If it can't help you turn off your **`Anti-Virus`** because 1 program from **`/bin/WinDivert`** can be detected and terminated, because its start-up **`zapret`** [If you delete it zapret be corrupted]
+If it can't help you turn off your **`Anti-Virus`** because 1 program from **`/bin/WinDivert`** can be detected and terminated, because its start-up **`zapret`** [**`If you delete it zapret be corrupted`**]
 
 ## 5. What's list.txt files? 🤔
 
-This files for **`zapret`**, **`list-discord.txt`** - It's for fixing **ONLY** discord [discord.bat] | **`list-general.txt`** - It's can fix <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=12 /> YouTube sites & img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord [general.bat]
+This files for **`zapret`**, **`list-discord.txt`** - It's for fixing **ONLY** discord [**`discord.bat`**] | **`list-general.txt`** - It's can fix <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=12 /> YouTube sites & <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord [**`general.bat`**]
 
 <p align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BelkasPro/Zapret-1.6.2?style=for-the-badge&label=Stars" width="120">
