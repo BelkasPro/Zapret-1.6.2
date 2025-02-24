@@ -4,7 +4,6 @@ chcp 65001 >nul
 
 cd /d "%~dp0"
 call service_status.bat zapret
-call check_updates.bat soft
 echo:
 
 set BIN=%~dp0bin\
