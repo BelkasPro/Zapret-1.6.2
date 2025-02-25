@@ -18,7 +18,7 @@ If you need to delete this program for first step open "**`service_remove.bat`**
 ## 4. Why it's don't working? 🤷‍♂️
 
 Maybe you have turned ON **`VPN`**, its corrupting program and it can't working, recommended turn off **`VPN`** before opening it.
-If it can't help you turn off your **`Anti-Virus`** because 1 program from **`/bin/WinDivert`** can be detected and terminated, because its start-up **`zapret`** [**`If you delete it zapret be corrupted`**]
+If it can't help you turn off your **`Anti-Virus`** because 1 program from **`/bin/WinDivert`** can be detected and terminated, because its start-up **`zapret`** [**`If you delete it zapret be corrupted`**] So if it still doesn't work, ask me for help, just send what happened to my <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord.
 
 ## 5. What's list.txt files? 🤔
 
