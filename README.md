@@ -13,7 +13,7 @@ If you need to delete this program for first step open "**`service_remove.bat`**
 
 ## 3. Update logs [GITHUB repository] ⚙️
 
-> Updated Readme.md [**`Be more infortable`**], removed `checker` for updates and its final update for now.
+> Updated Readme.md [**`Be more infortable`**], removed `checker 🔍` for updates and its final update for now.
 
 ## 4. Why it's don't working? 🤷‍♂️
 
