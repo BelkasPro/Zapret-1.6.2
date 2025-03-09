@@ -5,7 +5,7 @@ It's program for fixing `infinity` loading <img src="https://cdn-icons-png.flati
 
 ## 1. How install **zapret** 📗
 
-After opening "**`service_install.bat`**" choose "9. general.bat" for launching `zapret` with fixing <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord & <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=12 /> Youtube . And after this press enter and ignore every error! Just close terminal. So, this program adding "**`zapret`**" to Auto-Launch with **`Windows`**
+After opening "**`service_install.bat`**" choose "9. general.bat" for launching `zapret` or another variant `1, 2, 3..` with fixing <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord & <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=12 /> Youtube . And after this press enter and ignore every error! Just close terminal. So, this program adding "**`zapret`**" to Auto-Launch with **`Windows`**
 
 ## 2. How delete **zapret** 📕
 
