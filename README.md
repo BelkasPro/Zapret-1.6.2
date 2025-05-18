@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4f89b3&text=Zapret%201.6.2&fontColor=88ddf7&fontSize=50&fontAlign=50&fontAlignY=45&animation=twinkling"/> 
 # Hello users from Russia! 
 
-It's program for fixing `infinity` loading <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord or <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=12 />Youtube **FOR WINDOWS!**
+It's program for fixing `infinity` loading <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord | <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=12 />Youtube | <img src="https://cdn-icons-png.flaticon.com/128/145/145809.png" height=15 /> SoundCloud  **FOR WINDOWS!**
 
 ## 1. How install **zapret** 📗
 
@@ -26,7 +26,7 @@ This files for **`zapret`**, **`list-discord.txt`** - It's for fixing **ONLY** d
 
 ## Update!
 
-I have updated zapret [ general.bat ], added new service into it! Now you can listen **`Soundcloud`** <img src="https://cdn-icons-png.flaticon.com/128/145/145809.png" height=15 /> on your browser or app! Maybe i'll add "**`Spotify`**" soon.
+I have updated zapret [ general.bat ], added new service into it! Now you can listen **`SoundCloud`** <img src="https://cdn-icons-png.flaticon.com/128/145/145809.png" height=15 /> on your browser or app! Maybe i'll add "**`Spotify`**" soon.
 
 <p align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BelkasPro/Zapret-1.6.2?style=for-the-badge&label=Stars" width="120">
