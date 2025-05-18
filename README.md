@@ -26,7 +26,7 @@ This files for **`zapret`**, **`list-discord.txt`** - It's for fixing **ONLY** d
 
 ## Update!
 
-I have updated zapret [ general.bat ], added new service into it! Now you can listen "**`Soundcloud`**" <img src="https://www.flaticon.com/free-icon/soundcloud_145809?term=soundcloud&page=1&position=3&origin=search&related_id=145809" height=15 /> on your browser or app! Maybe i'll add "**`Spotify`**" soon.
+I have updated zapret [ general.bat ], added new service into it! Now you can listen "**`Soundcloud`**" <img src="https://cdn-icons-png.flaticon.com/128/2111/2111620.png" height=15 /> on your browser or app! Maybe i'll add "**`Spotify`**" soon.
 
 <p align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BelkasPro/Zapret-1.6.2?style=for-the-badge&label=Stars" width="120">
