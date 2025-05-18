@@ -24,6 +24,10 @@ If it can't help you turn off your **`Anti-Virus`** because 1 program from **`/b
 
 This files for **`zapret`**, **`list-discord.txt`** - It's for fixing **ONLY** discord [**`discord.bat`**] | **`list-general.txt`** - It's can fix <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=12 /> YouTube sites & <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord [**`general.bat`**]
 
+## Update!
+
+I have updated zapret [ general.bat ], added new service into it! Now you can listen "**`Soundcloud`**" on your browser or app! Maybe i'll add "**`Spotify`**" soon.
+
 <p align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BelkasPro/Zapret-1.6.2?style=for-the-badge&label=Stars" width="120">
 </p>
