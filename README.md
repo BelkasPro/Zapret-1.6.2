@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4f89b3&text=Zapret%201.6.2&fontColor=88ddf7&fontSize=50&fontAlign=50&fontAlignY=45&animation=twinkling"/> 
+
 # Hello users from Russia! 
 
 It's program for fixing `infinity` loading <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=15 /> Discord | <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=12 />Youtube | <img src="https://cdn-icons-png.flaticon.com/128/145/145809.png" height=15 /> SoundCloud  **FOR WINDOWS!**
